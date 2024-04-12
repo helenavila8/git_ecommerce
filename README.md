@@ -7,5 +7,3 @@ Welcome to our online store! This simple eCommerce website allows you to browse 
 ✅ View and edit your shopping cart.
 ✅ Checkout securely.
 ✅ Receive order confirmation via email.
-
-hola
